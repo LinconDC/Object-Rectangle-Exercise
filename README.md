@@ -1,2 +1,1 @@
-# Exercise-Rectangle
-POO Activity
+# Object oriented exercises in java
